@@ -1,3 +1,2 @@
-# Exploratory Data Analysis of the Titanic Dataset
-This project focuses on data handling and manipulation using Python (Pandas, NumPy).
-It demonstrates data cleaning, filtering, grouping, and feature engineering.
+# Python-ML-Portfolio
+Portfolio of Python and ML projects showcasing data analysis and EE applications
